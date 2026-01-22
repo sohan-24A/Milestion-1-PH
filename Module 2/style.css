@@ -1,0 +1,29 @@
+#heading {
+    background-color: rgb(100, 209, 136);
+    text-align: center;
+    padding: 30px;
+    border: 20px solid rgb(153, 228, 203);
+    border-radius: 10px;
+    color: rgba(115, 115, 212, 0.651);
+    text-shadow: 20px 10px blue;
+}
+
+.div {
+    background-color: aqua;
+    height: 300px;
+    text-align: center;
+    margin-bottom: 20px;
+    position: relative;
+
+
+}
+
+#h3 {
+    background-color: rgb(101, 101, 221);
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    margin: 0; 
+}
